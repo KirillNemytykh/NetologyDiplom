@@ -1,6 +1,6 @@
 **Дипломный проект профессии "Тестировщик ПО**
 
-[План автоматизации](https://github.com/OlesyaSumatokhina/DiplomAutoTester/blob/master/docs/Plan.md)
+
 
 Отчет по итогам тестирования
 
@@ -8,7 +8,7 @@
 
 __Инструкция по запуску__
 
-1. Склонировать репозиторий https://github.com/OlesyaSumatokhina/DiplomAutoTester к себе в локальную папку командой <code>git clone</code>;
+1. Склонировать репозиторий к себе в локальную папку командой <code>git clone</code>;
 2. Запустить программу Docker Desktop;
 3. Открыть склонированный проект на локальной машине в IntelliJ IDEA;
 4. Запустить в терминале IDEA docker compose командой <code>docker compose up</code>;
