@@ -20,7 +20,7 @@
 
 *Найденные баги:*
 
-1.  https://github.com/KirillNemytykh/NetologyDiplom/issues/1
+1.  Сообщение об успешном выполнении операции при использовании неодобренной карты https://github.com/KirillNemytykh/NetologyDiplom/issues/1
 
 
 
