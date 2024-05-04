@@ -1,10 +1,10 @@
 **Дипломный проект профессии "Тестировщик ПО**
 
+[План тестирования](https://github.com/KirillNemytykh/NetologyDiplom/blob/master/docs/Plan.md)
 
+[Отчет по итогам тестирования](https://github.com/OlesyaSumatokhina/DiplomAutoTester/blob/master/docs/Report.md)
 
-Отчет по итогам тестирования
-
-Отчет по итогам автоматизации
+[Отчет по итогам автоматизации](https://github.com/KirillNemytykh/NetologyDiplom/blob/master/docs/Summary.md)
 
 __Инструкция по запуску__
 
@@ -21,5 +21,6 @@ __Инструкция по запуску__
 **для MSQL** <code>./gradlew clean test "-Ddb.url=jdbc:mysql://localhost:3306/app"</code>
 
 **для postgresql** <code>./gradlew clean test "-Ddb.url=jdbc:postgresql://localhost:5432/app"</code>;
+
 10. Запустить формирование отчета, с одновременным открытием в браузере командой в терминале <code>./gradlew allureServe</code>;
 11. Посмотреть сформировавшийся отчет в браузере.
