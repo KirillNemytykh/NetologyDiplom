@@ -20,7 +20,7 @@
 
 *Найденные баги:*
 
-1.  [Появляется сообщение "Операция одобрена банком" при использовании карты без одобрения] https://github.com/KirillNemytykh/NetologyDiplom/issues/1
+1.  [Появляется сообщение "Операция одобрена банком" при использовании карты без одобрения](https://github.com/KirillNemytykh/NetologyDiplom/issues/1)
 2.  
 
 
