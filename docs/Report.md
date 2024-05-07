@@ -16,6 +16,11 @@
 * 26 теста - успешны (86,6%);
 * 4 теста - неуспешны (13,34%).
 
+![327911403-bd3a559f-e5bb-4db6-a0ec-424dcc5399a0](https://github.com/KirillNemytykh/NetologyDiplom/assets/152414745/e99b33d4-b8b5-4dab-aa2e-8e2797c54b5e)
+![Снимок экрана 2024-05-02 в 21 33 17](https://github.com/KirillNemytykh/NetologyDiplom/assets/152414745/8e411977-40ea-4890-a887-97b455799533)
+![Снимок экрана 2024-05-02 в 21 33 08](https://github.com/KirillNemytykh/NetologyDiplom/assets/152414745/d5469458-0cdb-4e2d-9f10-c829ffefb47a)
+
+
 ### Общие рекомендации
 
 *Найденные баги:*
@@ -24,6 +29,8 @@
 2.  [Появляется сообщение "Операция одобрена банком" при использовании кредитной карты без одобрения](https://github.com/KirillNemytykh/NetologyDiplom/issues/1)
 3.  [Не происходит запись в БД при оплате тура одобренной картой с валидными данными пользователя](https://github.com/KirillNemytykh/NetologyDiplom/issues/2)
 4.  [Не происходит запись в БД при оплате тура одобренной кредитной картой с использованием валидных данных пользователя ](https://github.com/KirillNemytykh/NetologyDiplom/issues/3)
+5.  [При покупке тура с картой без одобрения, с валидными данными, запись результата в БД не происходит](https://github.com/KirillNemytykh/NetologyDiplom/issues/5)
+6.  [При покупке тура с картой без одобрения, с валидными данными, запись результата в БД не происходит](https://github.com/KirillNemytykh/NetologyDiplom/issues/6)
 
 Найденные баги считаю КРИТИЧЕСКИМИ так как они напрямую связаны с функционалом оплаты.
 
